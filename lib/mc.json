@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "description": "Explore a vast world and discover hidden secrets in this acclaimed adventure game.",
+    "releaseDate": "2017-03-03",
+    "score": 97,
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "image": "https://cdn02.plentymarkets.com/qozbgypaugq8/item/images/1613/full/PSTR-ZELDA005.jpg"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "An epic tale of witcher Geralt seeking his adopted daughter in a vast, open world.",
+    "releaseDate": "2015-05-19",
+    "score": 93,
+    "slug": "the-witcher-3-wild-hunt",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "description": "Immerse yourself in a world of outlaws and adventure in this stunning open-world game.",
+    "releaseDate": "2018-10-26",
+    "score": 97,
+    "slug": "red-dead-redemption-2",
+    "image": "https://assets.vg247.com/current/2018/05/red_dead_redemption_2_cover_art_1.jpg"
+  },
+  {
+    "title": "God of War",
+    "description": "Join Kratos on an epic journey through Norse mythology in this critically acclaimed action game.",
+    "releaseDate": "2018-04-20",
+    "score": 94,
+    "slug": "god-of-war",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "description": "Explore the futuristic city of Night City in this highly anticipated RPG.",
+    "releaseDate": "2020-12-10",
+    "score": 85,
+    "slug": "cyberpunk-2077",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
+  },
+  {
+    "title": "Horizon Zero Dawn",
+    "description": "Embark on an epic journey through a post-apocalyptic world dominated by robotic creatures.",
+    "releaseDate": "2017-02-28",
+    "score": 89,
+    "slug": "horizon-zero-dawn",
+    "image": "https://m.media-amazon.com/images/I/71YdDkrVieL._SL1500_.jpg"
+  },
+  {
+    "title": "Persona 5",
+    "description": "Dive into the lives of high school students by day and phantom thieves by night in this acclaimed JRPG.",
+    "releaseDate": "2016-09-15",
+    "score": 93,
+    "slug": "persona-5",
+    "image": "https://personacentral.com/wp-content/uploads/2019/02/Persona-5-Mementos-Mission-Cover-1.jpg"
+  },
+  {
+    "title": "Bloodborne",
+    "description": "A dark and challenging action RPG set in the gothic city of Yharnam.",
+    "releaseDate": "2015-03-24",
+    "score": 92,
+    "slug": "bloodborne",
+    "image": "https://cdn.shopify.com/s/files/1/0747/3829/products/mL1584_1024x1024.jpg?v=1571445465"
+  },
+  {
+    "title": "Stardew Valley",
+    "description": "Create the farm of your dreams in this charming farming simulation game.",
+    "releaseDate": "2016-02-26",
+    "score": 88,
+    "slug": "stardew-valley",
+    "image": "https://th.bing.com/th/id/R.5bc0ce96315aeb9d4d5992addfa3c72b?rik=AZKtavXB6l8G5g&riu=http%3a%2f%2fwww.mobygames.com%2fimages%2fcovers%2fl%2f365525-stardew-valley-linux-front-cover.png&ehk=LW3r7jrZvSPhuRmUGWGVvGX5gdFSrsyn33PdSOF7IA4%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "title": "Monster Hunter: World",
+    "description": "Hunt down massive monsters and discover the thrill of the hunt in this action-packed RPG.",
+    "releaseDate": "2018-01-26",
+    "score": 90,
+    "slug": "monster-hunter-world",
+    "image": "https://www.mobygames.com/images/covers/l/452375-monster-hunter-world-playstation-4-front-cover.png"
+  },
+  {
+    "title": "Celeste",
+    "description": "A beautifully crafted platformer about climbing a mountain, both literally and metaphorically.",
+    "releaseDate": "2018-01-25",
+    "score": 94,
+    "slug": "celeste",
+    "image": "https://th.bing.com/th/id/R.6db8fd8ff73cc40f01168d6b2a4b858b?rik=eldoHsInnByS3A&riu=http%3a%2f%2fwww.mobygames.com%2fimages%2fcovers%2fl%2f452220-celeste-playstation-4-front-cover.jpg&ehk=VVnbFB2p2gktlLknkvkl4kShS5Foqnoj9CTHD1pcNZ4%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "description": "Experience intense combat and explore a beautifully crafted world set in late 1500s Sengoku period Japan.",
+    "releaseDate": "2019-03-22",
+    "score": 90,
+    "slug": "sekiro-shadows-die-twice",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzhjMGE4ZWQtM2ZhNy00OWJjLThkMTUtZTkwMTc3ZDJjODg2XkEyXkFqcGdeQXVyMTk5NDI0MA@@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "description": "Become a samurai warrior and embark on an epic adventure to liberate Tsushima Island.",
+    "releaseDate": "2020-07-17",
+    "score": 83,
+    "slug": "ghost-of-tsushima",
+    "image": "https://th.bing.com/th/id/OIP.9crRRQuQBnAnPe1GlBd1lAHaJP?rs=1&pid=ImgDetMain"
+  },
+  {
+    "title": "Marvel's Spider-Man",
+    "description": "Swing through New York City as Spider-Man and protect the city from a new threat.",
+    "releaseDate": "2018-09-07",
+    "score": 87,
+    "slug": "marvels-spider-man",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Spider-Man_PS4_cover.jpg"
+  },
+  {
+    "title": "Fire Emblem: Three Houses",
+    "description": "Lead students in tactical battles and unravel the mysteries of the continent of Fódlan.",
+    "releaseDate": "2019-07-26",
+    "score": 89,
+    "slug": "fire-emblem-three-houses",
+    "image": "https://th.bing.com/th/id/R.2e68ddd78874f2ca871f892a2132dc09?rik=w3g9fh90VjRMIg&riu=http%3a%2f%2fcdn02.nintendo-europe.com%2fmedia%2fimages%2f11_square_images%2fgames_18%2fnintendo_switch_5%2fSQ_NSwitch_FireEmblemThreeHouses.jpg&ehk=JwahdzLZZVmR4fIZ33n4bDixJQs9H4%2fCJLdYo0QKJIk%3d&risl=&pid=ImgRaw&r=0"
+  }
+]
